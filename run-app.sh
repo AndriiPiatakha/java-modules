@@ -1,0 +1,1 @@
+java --module-path target -m com.itbulls.app/com.itbulls.app.App
